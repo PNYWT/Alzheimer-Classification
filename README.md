@@ -1,6 +1,6 @@
 # Alzheimer-Classification
 Alzheimer Classification 3 models<br>
-HomeWork MNachine Learning
+HomeWork Machine Learning
 
 ## Last Update 10/01/23 (Done)
 - Dataset Alzheimer.csv
